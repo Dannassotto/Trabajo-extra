@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    background-color: rgb(10, 10, 10);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.logo{
+    font-size: 25px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.home{
+    font-size: 25px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.about{
+    font-size: 25px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.menu{
+    font-size: 25px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.contact{
+    font-size: 25px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.images1{
+    margin-left: 41vw;
+    margin-top: 7vw;
+}
+.texto{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30vw;
+    margin-top: 8vw;
+    color: white;
+    font-size: 65px;
+}
+.texto1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 27vw;
+    margin-top: 6vw;
+    color: white;
+    font-size: 65px;
+}
+.shop{
+    
+    background-color: rgb(235, 178, 131);
+    width: 110vw;
+    height: 50vw;
+    color: rgb(10, 10, 10);
+    font-size: 23px;
+    margin-left: 45vw;
+    text-align: center;
+    }
+.images2{
+    margin-top: 16vw;
+}
+
+
+
+
+
+
+.content{
+    min-height: 80px;
+    font-size: 25px;
+    justify-content:space-between;
+}
